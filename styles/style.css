@@ -1,0 +1,88 @@
+/* Sidebar background */
+section[data-testid="stSidebar"] {
+    background-color: #83917a;
+}
+
+/* Sticky Header */
+.sticky-header {
+    position: sticky;
+    top: 0;
+    background-color: #d2e7f3;
+    padding: 1rem 1.5rem;
+    z-index: 999;
+    border-radius: 10px;
+    border-bottom: 2px solid #e6e6e6;
+}
+
+/* Badge */
+.badge {
+    display: inline-block;
+    background-color: #e63946;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+/*        SIDEBAR STYLES         */
+
+section[data-testid="stSidebar"] {
+    background-color: #9cbdd1;
+}
+
+section[data-testid="stSidebar"] label,
+section[data-testid="stSidebar"] span,
+section[data-testid="stSidebar"] div {
+    color: black;
+}
+
+/*        TABLE STYLES           */
+[data-testid="stDataFrame"] {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Header with logo */
+.header-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.header-logo {
+    height: 42px;
+    width: auto;
+}
+
+/* Metric card wrapper */
+div[data-testid="stMetric"] {
+    background-color: #e5eff3;
+    padding: 18px 20px;
+    border-radius: 16px;
+    border: 1px solid #e6e6e6;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+    transition: all 0.25s ease;
+    cursor: pointer;
+}
+
+/* Hover effect */
+div[data-testid="stMetric"]:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 26px rgba(0, 0, 0, 0.15);
+    border-color: #6bb7e3;
+}
+
+/* Metric label */
+div[data-testid="stMetric"] label {
+    font-size: 14px;
+    color: #555;
+}
+
+/* Metric value */
+div[data-testid="stMetric"] div {
+    font-size: 28px;
+    font-weight: 700;
+    color: #111;
+}
