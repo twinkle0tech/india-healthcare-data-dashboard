@@ -57,7 +57,7 @@ The dataset includes state-wise healthcare and population data sourced from publ
 - **Healthcare Infrastructure Data:** Ministry of Health & Family Welfare (MoHFW), Government of India  
 - **Time Period:** 2019–2021 (latest publicly available)
 
-- **Key data fields:**
+ **Key data fields:**
 
 - Population (Census-based)
 
