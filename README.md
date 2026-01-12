@@ -242,7 +242,7 @@ It reflects my understanding of:
   
 ---
 ## preview
-<img width="1862" height="963" alt="Screenshot 2026-01-06 232236" src="https://github.com/user-attachments/assets/4bf572e4-1f98-4a33-8b79-787675b041f1" />
+<img width="1862" height="963" alt="Screenshot 2026-01-06 232236" src="https://github.com/user-attachments/assets/d945a76b-6030-4af2-abd8-ab1c2336cf2c" />
 
 ---
 
