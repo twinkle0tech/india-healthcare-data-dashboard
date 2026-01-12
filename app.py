@@ -270,7 +270,6 @@ with right_col:
 
 st.markdown("## 📌 Best & Worst Performing States")
 
-# Remove rows with missing values
 clean_df = filtered_df.dropna(
     subset=["Beds per 1 Lakh Population"]
 )
@@ -349,7 +348,6 @@ with right_col:
 
 st.markdown("## 🧠 Automated Insights")
 
-# Clean data to avoid None values
 insight_df = filtered_df.dropna(subset=["Beds per 1 Lakh Population"])
 
 low_bed_states = insight_df[

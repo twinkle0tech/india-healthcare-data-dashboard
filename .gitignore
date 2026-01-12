@@ -1,47 +1,10 @@
-# =========================
-# Python cache files
-# =========================
+# Ignore raw data
+data/raw/
+data/raw/*
+
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# =========================
-# Virtual environment
-# =========================
-venv/
-env/
-.venv/
-
-# =========================
-# Streamlit
-# =========================
-.streamlit/
-
-# =========================
-# OS files
-# =========================
-.DS_Store
-Thumbs.db
-
-# =========================
-# Editor / IDE
-# =========================
-.vscode/
-.idea/
-
-# =========================
-# Logs
-# =========================
-*.log
-
-# =========================
-# Data (important)
-# =========================
-data/raw/
-data/processed/
-
-# =========================
-# Secrets / credentials
-# =========================
-.env
+# Environment files
+.env 
