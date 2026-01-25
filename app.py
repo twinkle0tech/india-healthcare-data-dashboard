@@ -402,7 +402,7 @@ st.info(
     "• **Prioritize underserved states** for rapid expansion of hospital beds and facilities\n"
     "• **Strengthen district and sub-district healthcare** to reduce regional imbalance\n"
     "• **Allocate funding proportionally** based on population pressure and infrastructure gap\n"
-    "• **Adopt best practices** from high-performing states to improve efficiency\n\n"
+    "• **Adopt best practices** from high-performing states to improve efficiency\n"
     "📊 This dashboard demonstrates how **data-driven insights** can support "
     "**equitable and evidence-based healthcare planning** across India."
 )
