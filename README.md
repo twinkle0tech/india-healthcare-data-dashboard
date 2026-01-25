@@ -37,11 +37,11 @@ The key challenges addressed:
 
 I selected this project because:
 
-- Healthcare infrastructure became a critical issue during COVID-19
+- Real-world impact: COVID-19 exposed major gaps in India’s healthcare system, making this        problem highly relevant and meaningful.
 
-- Raw numbers alone do not show the real situation
+- Strong problem statement: Healthcare availability is not equal across states, and this          project directly explores that inequality.
 
-- Per-lakh population metrics provide better policy insights
+- Per-capita analysis focus: Instead of raw numbers, I used Beds per 1 Lakh Population to make    comparisons fair and realistic.
 
 - It combines data analysis + visualization + real-world impact
 
@@ -102,7 +102,7 @@ Identifies states that fall below acceptable healthcare thresholds.
 
 Displays state-wise healthcare capacity
 
-Color-coded for easy comparison
+Color-coded for easy comparison 
 
 Hover tooltips show detailed state information
 
