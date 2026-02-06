@@ -116,7 +116,7 @@ Compares healthcare availability across states
 Highlights high-performing and low-performing regions
 
 Why used:
-Bar charts allow direct state-to-state comparison.
+  Bar charts allow direct state-to-state comparison.
 
 -- 3️⃣ Pie Chart – Healthcare Adequacy Distribution
 
@@ -167,6 +167,7 @@ Allows focused analysis for specific regions or policy questions.
 - CSS (for UI styling)
   
 ---
+
 ## 📁 Project Structure
 ```
  Dashboard_healthcare-infrastructure
